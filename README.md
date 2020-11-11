@@ -1,5 +1,5 @@
-# Github GraphQL API - project for learning purposes
+# Github GraphQL API - my project for learning Apollo Client for React
 
 ![Alt text](apollo.png?raw=true "Intro")
 
-Simple navigation across repositories by company with additional functionality. Created in order to practice latest Apollo Client features  with hooks.
+Simple react app for browsing/starring/watching/seeing issues, etc. implemented using hooks from Apollo Client for React and Github GraphQL API.
